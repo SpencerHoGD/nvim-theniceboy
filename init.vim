@@ -5,6 +5,8 @@
 "|_|  |_| |_|   |_| \_|  \_/  |___|_|  |_|_| \_\\____|
 
 " Author: @theniceboy
+"
+" User: @SpencerHoGD
 
 " Checkout-list
 " vim-esearch
