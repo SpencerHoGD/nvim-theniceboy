@@ -162,7 +162,7 @@ noremap <C-E> 5<C-e>
 " Custom cursor movement
 source $HOME/.config/nvim/cursor.vim
 " If you use Qwerty keyboard, uncomment the next line.
-source $HOME/.config/nvim/cursor_for_qwerty.vim
+"source $HOME/.config/nvim/cursor_for_qwerty.vim
 
 
 " ==================== Insert Mode Cursor Movement ====================
