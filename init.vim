@@ -102,6 +102,7 @@ nnoremap Q :q<CR>
 nnoremap S :w<CR>
 " Open the vimrc file anytime
 nnoremap <LEADER>rc :vsp $HOME/.config/nvim/init.vim<CR>
+nnoremap <LEADER>rcd :vsp $HOME/.zshrc<CR>
 nnoremap <LEADER>rv :e .nvimrc<CR>
 augroup NVIMRC
     autocmd!
