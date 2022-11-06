@@ -6,7 +6,7 @@
 
 " Author: @theniceboy
 "
-" User: @SpencerHoGD
+" User: @Liam-arch
 
 " Checkout-list
 " vim-esearch
