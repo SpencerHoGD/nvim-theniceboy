@@ -227,6 +227,7 @@ noremap tmi :+tabmove<CR>
 " ==================== Markdown Settings ====================
 " Snippets
 source $HOME/.config/nvim/md-snippets.vim
+noremap <LEADER>md :vsp $HOME/.config/nvim/md-snippets.vim<CR>
 " auto spell
 autocmd BufRead,BufNewFile *.md setlocal spell
 
